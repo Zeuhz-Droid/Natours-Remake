@@ -1,0 +1,131 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+
+@import "components/bg-video";
+@import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/form";
+@import "components/popup";
+@import "components/story";
+
+@import "layout/grid";
+@import "layout/footer";
+@import "layout/header";
+@import "layout/navigation";
+
+@import "pages/home";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+    transition property should be on the initial state
+    pseudo-classes are states
+    pseudo-elements serve as virtual elements that can be styled to look real
+     */
+
+
+/* 
+
+RESPONSIVE DESIGN: One website that works beautifully along all devices
+- fluid layout
+- media queries
+- Responsive Images
+- Correct units 
+- Desktop-first vs Mobile-first strategy
+
+MAINTAINABLE AND SCALABELE CODE: More important to the developer than the user
+- clean
+- Easy to understand
+- Growth
+- Reusable
+- How to organize files
+- How to structure HTML
+
+WEB PERFORMANCE:This maeans to make it smaller in size and consequnetly faster.
+- Less HTTP requests
+- Less code
+- use a CSS processor
+- Less images
+- Compress images
+
+
+
+when talking about em and rems, 
+rems is in relation to the root font size, while ems is in relation to the parents' font size
+ 
+For ems; when dealing with fontsize --it is in relation to the parent,
+but when dealing with lengths --it is in relation to the current or the initial font-size
+NOTE: percentages are relative to the parent's font-size, when used to measure font-size
+percentages are relative to the parent's width, when used to measure length
+*/
+

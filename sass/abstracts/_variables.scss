@@ -1,0 +1,55 @@
+$color-primary: #55c57a;
+$color-primary-light: #7ed56f;
+$color-primary-dark: #28b485;
+
+// $color-secondary: ;
+// $color-tertiary: ;
+
+$color-secondary: #f1b716;
+$color-secondary-light: #ffb900;
+$color-secondary-dark: #ff7730;
+
+$color-tertiary-light: #2998ff;
+$color-tertiary-dark: #5643fa;
+
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #eee;
+
+$color-black: #000;
+$color-white: #fff;
+
+$color-grey-dark: #777;
+$color-grey-dark-2: #777;
+$color-grey-dark-3: #333;
+
+//FONT
+$default-font-size: 1.6rem;
+
+
+// GRID
+
+$grid-width: 114rem;
+$grid-height: 6rem;
+$gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
+$gutter-horizontal: 6rem;
+
+//SHADOW 
+
+$shadow-black-one: rgba($color: $color-black, $alpha: .1);
+$shadow-black-one-adjust: rgba($color: $color-black, $alpha: .15);
+$shadow-black-two: rgba($color: $color-black, $alpha: .2);
+$shadow-black-three: rgba($color: $color-black, $alpha: .3);
+$shadow-black-four: rgba($color: $color-black, $alpha: .4);
+$shadow-black-five: rgba($color: $color-black, $alpha: .5);
+$shadow-black-six: rgba($color: $color-black, $alpha: .6);
+$shadow-black-seven: rgba($color: $color-black, $alpha: .7);
+$shadow-black-eight: rgba($color: $color-black, $alpha: .8);
+$shadow-black-nine: rgba($color: $color-black, $alpha: .9);
+$shadow-white-nine: rgba($color: $color-white, $alpha: .9);
+
+
+//TRNASPARENCY
+
+$transparent-five: rgba($color: $color-white, $alpha: .5);
+$transparent-six: rgba($color: $color-white, $alpha: .6);
