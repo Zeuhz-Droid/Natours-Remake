@@ -8,3 +8,7 @@ This was alot of fun as i learnt alot of new defined css property, i came across
 
 P.S - check website on both a mobile device and a desktop via the inspect button.
 Different media queries written for different screen sizes.
+
+## 12/04/2022
+This site is hosted at https://zeuhz-droid.github.io/Natours-Remake/
+check it out and drop reviews, and comments. Thank you.
